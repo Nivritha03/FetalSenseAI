@@ -23,7 +23,7 @@ Going beyond traditional "black-box" machine learning, this project implements s
 
 ---
 
-## 🏗️ Architecture & TechStack
+## 🏗️ Architecture & Tech Stack
 
 This project is built using a decoupled, full-stack architecture for optimal performance and maintainability.
 
